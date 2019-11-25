@@ -1,0 +1,8 @@
+#element1 {
+    display:inline-block;
+}
+
+#element2 {
+    display: inline-block;
+    float: right;
+}
